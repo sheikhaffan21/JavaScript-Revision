@@ -26,7 +26,7 @@ console.log(booleanIsLoggedIn)
 //"" => false
 //"Affan" => true
 
-let someNumber =33
+let someNumber = 33
 let StringNumber = String(someNumber)
 console.log(typeof(StringNumber))
 console.log(StringNumber)
